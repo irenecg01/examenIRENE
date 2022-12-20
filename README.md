@@ -1,6 +1,5 @@
 # Examen Diseño de Interfaces Web
-## nombre_del_alumno
-
+## Irene Cerezo
 ### Instrucciones:
 
 Esta prueba tiene como finalidad evaluar los aprendizajes de __Diseño de Interfaces Web__.
